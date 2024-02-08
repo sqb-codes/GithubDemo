@@ -8,4 +8,15 @@ Git basic commands
 -> git add .
   => add all untracked files and changes to staging area
 
-some random text
+-> git commit -m "new files added"
+  => commit this file to repository
+
+-> git config --global user.email "youremailid@gmail.com"
+-> git config --global user.name "Your name"
+
+-> git diff
+  => know exactly what you have changed
+
+
+
+some changes
