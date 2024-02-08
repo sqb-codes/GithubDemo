@@ -17,6 +17,8 @@ Git basic commands
 -> git diff
   => know exactly what you have changed
 
+-> git ls-files
+  => list all files available in staging area
 
-
-some changes
+-> git rm --cached filename
+  => you want to keep the file in your hard disk but you don't want Git to track this file anymore
