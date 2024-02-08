@@ -20,5 +20,18 @@ Git basic commands
 -> git ls-files
   => list all files available in staging area
 
+-> git rm filename
+  => remove this file from staging area and local directory
+
 -> git rm --cached filename
   => you want to keep the file in your hard disk but you don't want Git to track this file anymore
+
+Branch
+-> git branch
+  => returns all branches
+
+-> git branch second-branch
+  => create another branch whose name is second-branch
+
+-> git checkout second-branch
+  => switch to second-branch
