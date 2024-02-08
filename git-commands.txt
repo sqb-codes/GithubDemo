@@ -1,0 +1,11 @@
+Git basic commands
+
+-> git status
+-> git init
+  => init a new repository in local directory
+-> git add filename
+  => add file to staging area
+-> git add .
+  => add all untracked files and changes to staging area
+
+some random text
