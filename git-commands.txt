@@ -38,3 +38,9 @@ Branch
 
 -> git checkout -b third-branch
   => create and switch to third-branch
+
+-> git remote add origin URL
+  => Connect local repository to remote repository
+
+-> git push -u origin master
+  => push changes to remote repository from local repository
