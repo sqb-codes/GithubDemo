@@ -35,3 +35,6 @@ Branch
 
 -> git checkout second-branch
   => switch to second-branch
+
+-> git checkout -b third-branch
+  => create and switch to third-branch
